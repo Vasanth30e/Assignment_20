@@ -1,0 +1,6 @@
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\bin\Debug\BookLibraryLib.dll
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\bin\Debug\BookLibraryLib.pdb
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\obj\Debug\BookLibraryLib.csproj.AssemblyReference.cache
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\obj\Debug\BookLibraryLib.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\obj\Debug\BookLibraryLib.dll
+D:\Training\C#\Day 17\Assignment_20\BookLibraryLib\BookLibraryLib\obj\Debug\BookLibraryLib.pdb

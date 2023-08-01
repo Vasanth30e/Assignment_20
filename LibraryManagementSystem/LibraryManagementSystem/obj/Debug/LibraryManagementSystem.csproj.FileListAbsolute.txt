@@ -1,0 +1,11 @@
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BookLibraryLib.dll
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\BookLibraryLib.pdb
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Training\C#\Day 17\Assignment_20\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
